@@ -176,3 +176,11 @@ Make sure scripts are executable:
 ```bash
 chmod +x install.sh uninstall.sh update.sh
 ```
+
+# Support This Project
+
+If you find this project helpful, consider supporting it by donating via PayPal. Your contribution helps keep the project maintained and improved.
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/AsirAbdukhalikov)
+
+Thank you for your support!
